@@ -34,6 +34,14 @@ export default function Home() {
             Mock local cafe site
           </Link>
         </p>
+        <p className="text-xl text-center my-10">
+          <Link
+            className="hover:underline hover:text-amber-500"
+            href={"https://cwa-sage.vercel.app/"}
+          >
+            Another mock cafe site
+          </Link>
+        </p>
       </div>
     </Layout>
   );
