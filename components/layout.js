@@ -67,6 +67,14 @@ export default function Layout({ children, home }) {
           href="https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=Monoton&display=swap"
           rel="stylesheet"
         />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap"
+          rel="stylesheet"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap"
+          rel="stylesheet"
+        />
         <meta
           property="og:image"
           content={`https://og-image.vercel.app/${encodeURI(

@@ -17,7 +17,33 @@
 }
 
 body {
-    background-color: #ffffff;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: #343331;
+    font-family: 'Playfair Display', serif;
     color: #343331;
+}
+
+.border {
+  border: solid red 1px;
+}
+
+.title {
+  border-bottom: solid #343331 1px;
+  background-color: #ffd1dce9;
+}
+
+.portfolioList {
+  margin-left: 20px;
+}
+
+.portfolioColDiv {
+  margin-right: 20px;
+}
+
+.portfolioList p {
+  margin-bottom: 10px;
+}
+
+.portfolioContainer {
+  background-color: #343331;
+  color: #ffd1dcd7;
 }
