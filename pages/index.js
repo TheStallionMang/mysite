@@ -20,7 +20,7 @@ export default function Home() {
           <p className="text-xl m-auto text-left">
             <Link
               className="hover:underline hover:text-amber-500 m-auto"
-              href={"https://food-order-9ysae0iae-thestallionmang.vercel.app/"}
+              href={"https://food-order-ecru.vercel.app/"}
             >
               Food order app
             </Link>
