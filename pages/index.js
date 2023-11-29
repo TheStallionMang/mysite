@@ -46,7 +46,7 @@ export default function Home() {
               className="m-auto p-2 link"
               href={"https://cwa-sage.vercel.app/"}
             >
-              Another mock cafe site
+              Mock cafe site 2
             </Link>
           </p>
         </div>
