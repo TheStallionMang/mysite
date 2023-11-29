@@ -29,6 +29,8 @@ body {
 .title {
   border-bottom: solid #343331 1px;
   background-color: #ffd1dce9;
+  width: 100%;
+  border: 2px solid red;
 }
 
 .portfolioList {
@@ -46,4 +48,16 @@ body {
 .portfolioContainer {
   background-color: #343331;
   color: #ffd1dcd7;
+}
+
+.link:hover {
+  background-color: #ffd1dcd7;
+  color: #343331;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  
 }
