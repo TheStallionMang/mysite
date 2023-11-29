@@ -30,7 +30,7 @@ body {
   border-bottom: solid #343331 1px;
   background-color: #ffd1dce9;
   width: 100%;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 .portfolioList {
